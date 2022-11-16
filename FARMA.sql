@@ -16,7 +16,7 @@ create database FARMA;
   );
 
 
-insert into socio values
+insert into Recetas values
 (12345678912,2000,13454665436),
 (23456789123,3000,13454665436),
 (34567891234,4000,46363647372),
